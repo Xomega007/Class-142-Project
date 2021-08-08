@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "C-142 Project",
+			"path": "."
+		},
+		{
+			"name": "venv",
+			"path": "..\\Flask API\\planet_flask-main\\venv"
+		},
+		{
+			"name": "__pycache__",
+			"path": "..\\Flask API\\planet_flask-main\\__pycache__"
+		}
+	],
+	"settings": {}
+}
